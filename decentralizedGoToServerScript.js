@@ -1,11 +1,9 @@
-//  decentralizedGoToServerScript.js
-//
-//  Created by Darlingnotin in 2019.
-//  Copyright 2019 Darling
-//  Copyright 2020 Vircadia Contributors
-//
-//  Distributed under the ISC license.
-//  See the accompanying file LICENSE or https://opensource.org/licenses/ISC
+// Copyright (c) 2020 Danielle Arlington.
+
+// This program is free software: you can redistribute it and/or modify  
+// it under the terms of the GNU General Public License as published by  
+// the Free Software Foundation, version 3.
+// https://www.gnu.org/licenses/gpl-3.0.en.html
 
 (function () {
     var _localStore = {};
