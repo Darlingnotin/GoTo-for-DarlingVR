@@ -1,13 +1,9 @@
-//  explore.js
-//
-//  Created by Darlingnotin in 2019.
-//  Copyright 2019 Darling
-//
-//  App maintained in: https://github.com/kasenvr/Decentralized_GoTo_Experimental
-//  App copied to: https://github.com/kasenvr/project-athena
-//
-//  Distributed under the ISC license.
-//  See the accompanying file LICENSE or https://opensource.org/licenses/ISC
+// Copyright (c) 2020 Danielle Arlington.
+
+// This program is free software: you can redistribute it and/or modify  
+// it under the terms of the GNU General Public License as published by  
+// the Free Software Foundation, version 3.
+// https://www.gnu.org/licenses/gpl-3.0.en.html
 
 (function () {
     var defaultGoToJSON = "http://goto.darlingvr.net:8081/goto.json";
